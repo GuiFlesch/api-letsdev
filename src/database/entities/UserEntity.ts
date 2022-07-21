@@ -12,3 +12,11 @@ class UserEntity implements User{
 }
 
 export { UserEntity }
+
+/**
+ * Servidor
+ * Controlador
+ * Serviços
+ * Prisma
+ * Banco de Dados
+ */
