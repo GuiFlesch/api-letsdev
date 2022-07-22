@@ -16,7 +16,6 @@ class UsersRepository {
                 ...userData
             }
         })
-
         return newUser;
     };
 
